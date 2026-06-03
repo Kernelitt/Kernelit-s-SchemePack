@@ -1,0 +1,8 @@
+name: "kernelit-schemepack"
+displayName: "Kernelit's SchemePack"
+author: Kernelit
+description: "Мод добавляет немного моих схем отсортированных по тегам. Этот  мод ещё будет дорабатываться"
+version: "1.0"
+minGameVersion: "157.4"
+dependencies: [ ]
+hidden: false
